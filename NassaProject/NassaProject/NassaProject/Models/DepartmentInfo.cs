@@ -14,9 +14,10 @@ namespace NassaProject.Models
         public int DepartmentId { get; set; }
         [Required]
         public string DepartmentName { get; set; }
-        public ICollection<Employee> EmployeePF { get; set; }
+        public virtual ICollection<Employee> Employees { get; set; }
 
     }
+
 
     public class DepartmentViewModel
     {
@@ -34,15 +35,18 @@ namespace NassaProject.Models
         public int EmployeeId { get; set; }
         [Required]
         public string EmployeetName { get; set; }
+        public int DepartmentIdF { get; set; }
         public bool IsApply { get; set; }
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString ="{0:yyyy-MM-dd}")]
         public DateTime JoinDate { get; set; }       
         public string Photo { get; set; }
         [NotMapped]
+
         public IFormFile PhotoIFF { get; set; }
-        [ForeignKey("Department")]
-        public int DepartmentIdF { get; set; }
-        public virtual Department DepartmentCF { get; set; }
+
+        [ForeignKey("DepartmentIdF")]
+       
+        public virtual Department Department { get; set; }
     }
 }

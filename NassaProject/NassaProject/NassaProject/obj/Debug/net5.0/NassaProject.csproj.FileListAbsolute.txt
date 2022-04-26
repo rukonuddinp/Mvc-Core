@@ -311,3 +311,316 @@ C:\Users\Rukon\Downloads\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0
 C:\Users\Rukon\Downloads\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\ref\NassaProject.dll
 C:\Users\Rukon\Downloads\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.pdb
 C:\Users\Rukon\Downloads\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.genruntimeconfig.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\appsettings.Development.json
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\appsettings.json
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\libman.json
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.exe
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.deps.json
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.runtimeconfig.json
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.runtimeconfig.dev.json
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ref\NassaProject.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.pdb
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.Views.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.Views.pdb
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Humanizer.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.AssemblyInfoInputs.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.AssemblyInfo.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.csproj.CoreCompileInputs.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.MvcApplicationPartsAssemblyInfo.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorAssemblyInfo.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorAssemblyInfo.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\staticwebassets\NassaProject.StaticWebAssets.Manifest.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\staticwebassets\NassaProject.StaticWebAssets.xml
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\scopedcss\bundle\NassaProject.styles.css
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.TagHelpers.input.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.TagHelpers.output.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorCoreGenerate.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Create.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Delete.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Details.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Edit.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorTargetAssemblyInfo.cache
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorTargetAssemblyInfo.cs
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.Views.pdb
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.csproj.CopyComplete
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\ref\NassaProject.dll
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.pdb
+F:\Porjects\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.genruntimeconfig.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\appsettings.Development.json
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\appsettings.json
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\libman.json
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.exe
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.deps.json
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.runtimeconfig.json
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.runtimeconfig.dev.json
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ref\NassaProject.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.pdb
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.Views.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\NassaProject.Views.pdb
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Humanizer.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.csproj.AssemblyReference.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.AssemblyInfoInputs.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.AssemblyInfo.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.csproj.CoreCompileInputs.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.MvcApplicationPartsAssemblyInfo.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorAssemblyInfo.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorAssemblyInfo.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\staticwebassets\NassaProject.StaticWebAssets.Manifest.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\staticwebassets\NassaProject.StaticWebAssets.xml
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\scopedcss\bundle\NassaProject.styles.css
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.TagHelpers.input.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.TagHelpers.output.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorCoreGenerate.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Create.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Delete.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Details.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Edit.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Departments\Index.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorTargetAssemblyInfo.cache
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.RazorTargetAssemblyInfo.cs
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.Views.pdb
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.csproj.CopyComplete
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\ref\NassaProject.dll
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.pdb
+G:\All Project\GitHubUpdateCrud\MVC Core Project\NassaProject\NassaProject\NassaProject\obj\Debug\net5.0\NassaProject.genruntimeconfig.cache

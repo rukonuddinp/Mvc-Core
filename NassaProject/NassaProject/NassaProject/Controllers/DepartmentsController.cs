@@ -21,7 +21,7 @@ namespace NassaProject
         // GET: Departments
         public async Task<IActionResult> Index()
         {
-            return View(await _context.DepartmentD.ToListAsync());
+            return View(await _context.Departments.ToListAsync());
         }
 
         // GET: Departments/Details/5
@@ -32,7 +32,7 @@ namespace NassaProject
                 return NotFound();
             }
 
-            var department = await _context.DepartmentD
+            var department = await _context.Departments
                 .FirstOrDefaultAsync(m => m.DepartmentId == id);
             if (department == null)
             {
@@ -72,7 +72,7 @@ namespace NassaProject
                 return NotFound();
             }
 
-            var department = await _context.DepartmentD.FindAsync(id);
+            var department = await _context.Departments.FindAsync(id);
             if (department == null)
             {
                 return NotFound();
@@ -123,7 +123,7 @@ namespace NassaProject
                 return NotFound();
             }
 
-            var department = await _context.DepartmentD
+            var department = await _context.Departments
                 .FirstOrDefaultAsync(m => m.DepartmentId == id);
             if (department == null)
             {
@@ -138,15 +138,15 @@ namespace NassaProject
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var department = await _context.DepartmentD.FindAsync(id);
-            _context.DepartmentD.Remove(department);
+            var department = await _context.Departments.FindAsync(id);
+            _context.Departments.Remove(department);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool DepartmentExists(int id)
         {
-            return _context.DepartmentD.Any(e => e.DepartmentId == id);
+            return _context.Departments.Any(e => e.DepartmentId == id);
         }
     }
 }

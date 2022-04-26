@@ -12,8 +12,8 @@ namespace NassaProject.Models
         {
 
         }
-        public DbSet<Department> DepartmentD { get; set; }
-        public DbSet<Employee> EmployeeD { get; set; }
+        public DbSet<Department> Departments { get; set; }
+        public DbSet<Employee> Employees { get; set; }
 
 
     }

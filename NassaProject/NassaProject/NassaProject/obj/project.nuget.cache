@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZGIjGhU3uiCD5iWxw1rGsrIBfpH9+ITxBCyCfD5n0ETNd94tzXIGREWzCSay8bXs4rgud/V6liA87ML0ctxZzg==",
+  "dgSpecHash": "vtwtAMOlGET5pSElRMJWzwEBQ4tDGWxVQc3DTv+lmaxezg762gLt7wcTUNG+fqVtSWFcZ/uaHZcFWopYrH0SsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rukon\\Downloads\\NassaProject\\NassaProject\\NassaProject\\NassaProject.csproj",
+  "projectFilePath": "G:\\All Project\\GitHubUpdateCrud\\MVC Core Project\\NassaProject\\NassaProject\\NassaProject\\NassaProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rukon\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rukon\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

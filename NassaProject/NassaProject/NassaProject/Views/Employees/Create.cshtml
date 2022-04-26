@@ -42,13 +42,16 @@
                     <input asp-for="JoinDate" class="form-control" />
                     <span asp-validation-for="JoinDate" class="text-danger"></span>
                 </div>
+
                 <div class="form-group">
 
                     <input type="file" id="PhotoIFF" name="PhotoIFF" class="form-control" />
                 </div>
                 <div class="form-group">
+
                     <label asp-for="DepartmentIdF" class="control-label"></label>
-                    <input asp-for="DepartmentIdF" class="form-control" />
+                    <select asp-for="DepartmentIdF" class="form-control" asp-items="ViewBag.DepartmentIdF"></select>
+                   
                     <span asp-validation-for="DepartmentIdF" class="text-danger"></span>
                 </div>
                 <div class="form-group">

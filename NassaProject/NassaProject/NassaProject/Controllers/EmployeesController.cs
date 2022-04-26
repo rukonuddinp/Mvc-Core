@@ -27,7 +27,8 @@ namespace NassaProject
         // GET: Employees
         public async Task<IActionResult> Index()
         {
-            return View(await _context.EmployeeD.ToListAsync());
+            var incuRe = _context.Employees.Include(n=>n.Department);
+            return View(await incuRe.ToListAsync());
         }
 
         // GET: Employees/Details/5
@@ -38,7 +39,7 @@ namespace NassaProject
                 return NotFound();
             }
 
-            var employee = await _context.EmployeeD
+            var employee = await _context.Employees
                 .FirstOrDefaultAsync(m => m.EmployeeId == id);
             if (employee == null)
             {
@@ -49,8 +50,10 @@ namespace NassaProject
         }
 
         // GET: Employees/Create
+        [HttpGet]
         public IActionResult Create()
         {
+            ViewData["DepartmentIdF"] = new SelectList(_context.Departments, "DepartmentId", "DepartmentName");
             return View();
         }
 
@@ -76,7 +79,9 @@ namespace NassaProject
                 _context.Add(employee);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
+
             }
+            ViewBag["DepartmentIdF"] = new SelectList(_context.Departments, "DepartmentId", "DepartmentName", employee.DepartmentIdF);
             return View(employee);
         }
 
@@ -88,7 +93,7 @@ namespace NassaProject
                 return NotFound();
             }
 
-            var employee = await _context.EmployeeD.FindAsync(id);
+            var employee = await _context.Employees.FindAsync(id);
             if (employee == null)
             {
                 return NotFound();
@@ -150,7 +155,7 @@ namespace NassaProject
                 return NotFound();
             }
 
-            var employee = await _context.EmployeeD
+            var employee = await _context.Employees
                 .FirstOrDefaultAsync(m => m.EmployeeId == id);
             if (employee == null)
             {
@@ -165,15 +170,15 @@ namespace NassaProject
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var employee = await _context.EmployeeD.FindAsync(id);
-            _context.EmployeeD.Remove(employee);
+            var employee = await _context.Employees.FindAsync(id);
+            _context.Employees.Remove(employee);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool EmployeeExists(int id)
         {
-            return _context.EmployeeD.Any(e => e.EmployeeId == id);
+            return _context.Employees.Any(e => e.EmployeeId == id);
         }
     }
 }
